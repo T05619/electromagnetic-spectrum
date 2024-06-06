@@ -20,3 +20,18 @@ body {
 .completebox {
     background-color: #a1f190;
 }
+
+.footercontainer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 16px;
+}
+
+.linkToGithub {
+    transition: all 0.3s ease;
+}
+
+.linkToGithub:hover {
+    color: #b4b4b4;
+}
