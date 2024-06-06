@@ -1,0 +1,22 @@
+body {
+    background-color: #f3f3e8;
+}
+
+.waves {
+    color: black;
+    border: black solid 2px;
+}
+
+.inputwaves {
+    background-color: #eb8454;
+    color: #f3f3e8;
+    outline: none;
+}
+
+.inputwaves::placeholder {
+    color: #f3f3e8;
+}
+
+.completebox {
+    background-color: #a1f190;
+}
